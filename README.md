@@ -1,5 +1,5 @@
 
-# Deprecated!
+# pimcore/core-version
 
 ## Deprecated ... 
 
